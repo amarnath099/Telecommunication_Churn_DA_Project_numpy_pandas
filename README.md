@@ -48,14 +48,6 @@ The following Python libraries were used in the project:
 - **matplotlib**: For creating static, animated, and interactive visualizations.
 - **seaborn**: For enhanced statistical data visualization.
 
-<!-- ## Project Tasks
-
-The tasks are divided among the team members as follows:
-
-- **Rutuja**: Data Cleaning, Count by Churn, Churn by Gender.
-- **Suhas**: Churn by Senior Citizen, Period, PhoneService to StreamingTV.
-- **Kewal**: Contract, Monthly Charges.
-- **Chirag**: Payment Method. -->
 
 ## Data Cleaning
 
